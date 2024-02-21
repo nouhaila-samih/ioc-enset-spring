@@ -1,7 +1,10 @@
 package dao;
 
-public class DaoImpl implements IDao {
+import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 
+@Repository("dao")
+public class DaoImpl implements IDao {
 
     public DaoImpl() {}
 

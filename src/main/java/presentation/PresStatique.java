@@ -8,7 +8,7 @@ import metier.MetierImpl;
 public class PresStatique {
     public static void main(String[] args) {
         IDao dao = new DaoImpl();
-        IMetier metier = new MetierImpl();
+        IMetier metier = new MetierImpl(dao);
         metier.setDao(dao);
         System.out.println("res="+metier.calcul());
 

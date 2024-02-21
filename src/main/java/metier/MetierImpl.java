@@ -2,15 +2,15 @@ package metier;
 
 import dao.DaoImpl;
 import dao.IDao;
+import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
+@Service("metier")
 public class MetierImpl implements IMetier {
     private IDao d;
 
     public MetierImpl(IDao d) {
         this.d = d;
-    }
-
-    public MetierImpl() {
     }
 
     @Override
