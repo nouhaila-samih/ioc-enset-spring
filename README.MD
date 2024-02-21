@@ -1,8 +1,9 @@
 <h2>Injection de dépendences et Inversion de contrôle</h2>
 
-<h3 style="margin-top:2.7em;color:#0007B8">Diagramme de classe</h3>
+<h3>_Diagramme de classe_</h3>
 <img src="Captures/1.png">
+<h3>_Captures d'écran_</h3>
 <img src="Captures/2.png">
 <img src="Captures/3.png">
-<h5 style="color:red">N.B</h5>
-<p>Le fonctionnement de la présentations par XML nécessite le constructeur sans paramètres de MetierImpl (En Commentaire)</p>
+<h3>_N.B_</h3>
+<p>Le fonctionnement de la présentation par XML nécessite le constructeur sans paramètres de MetierImpl (En Commentaire)</p>
