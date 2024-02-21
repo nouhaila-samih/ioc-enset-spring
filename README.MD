@@ -5,4 +5,4 @@
 <img src="Captures/2.png">
 <img src="Captures/3.png">
 <h5 style="color:red">N.B</h5>
-<p>Le fonctionnement des présentations à part PresSpringAnnotation nécessite le constructeur sans paramètres de MetierImpl</p>
+<p>Le fonctionnement de la présentations par XML nécessite le constructeur sans paramètres de MetierImpl (En Commentaire)</p>

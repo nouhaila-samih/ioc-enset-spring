@@ -13,6 +13,8 @@ public class MetierImpl implements IMetier {
         this.d = d;
     }
 
+    //public MetierImpl() {}
+
     @Override
     public double calcul() {
         double i= d.getData();
