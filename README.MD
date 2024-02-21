@@ -1,4 +1,4 @@
-<h2>Injection de dépendences et Inversion de contrôle</h2>
+<h2>Injection de dépendances et Inversion de contrôle</h2>
 
 <h3>Diagramme de classe</h3>
 <img src="Captures/1.png">
